@@ -1,0 +1,8 @@
+.productCard {
+  width: 40%;
+  overflow: auto;
+}
+
+.greenBtn {
+  background-color: #4caf50; /* Green */
+}

@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "category": "FRUITS",
+      "name": "strawberries",
+      "cost": 5,
+      "limit": 10,
+      "imgURL": "https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=415&q=80"
+    },
+    {
+      "category": "FRUITS",
+      "name": "banana",
+      "cost": 5,
+      "limit": 10,
+      "imgURL": "https://images.unsplash.com/photo-1593280443077-ae46e0100ad1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80-w"
+    },
+    {
+      "category": "FRUITS",
+      "name": "cherries",
+      "cost": 5,
+      "limit": 10,
+      "imgURL": "https://images.unsplash.com/photo-1559181567-c3190ca9959b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80"
+    },
+    {
+      "category": "FRUITS",
+      "name": "oranges",
+      "cost": 5,
+      "limit": 10,
+      "imgURL": "https://images.unsplash.com/photo-1557800636-894a64c1696f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80"
+    },
+    {
+      "category": "FRUITS",
+      "name": "pineapples",
+      "cost": 5,
+      "limit": 10,
+      "imgURL": "https://images.unsplash.com/photo-1490885578174-acda8905c2c6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80"
+    }
+  ]
+}
